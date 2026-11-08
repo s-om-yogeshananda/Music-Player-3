@@ -1,0 +1,9 @@
+-keepattributes *Annotation*, Signature, InnerClasses, EnclosingMethod
+-keep class org.schabi.newpipe.extractor.** { *; }
+-keep class org.mozilla.javascript.** { *; }
+-dontwarn org.mozilla.javascript.**
+-dontwarn javax.script.**
+-dontwarn jdk.dynalink.**
+-dontwarn java.beans.**
+-dontwarn okhttp3.**
+-dontwarn okio.**

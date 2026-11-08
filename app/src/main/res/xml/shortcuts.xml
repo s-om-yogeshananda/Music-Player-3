@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="shuffle_all" android:enabled="true" android:shortcutShortLabel="@string/shortcut_shuffle">
+        <intent android:action="com.yourname.musicplayer.SHUFFLE_ALL" android:targetPackage="com.yourname.musicplayer" android:targetClass="com.yourname.musicplayer.MainActivity" />
+    </shortcut>
+    <shortcut android:shortcutId="recent" android:enabled="true" android:shortcutShortLabel="@string/shortcut_recent">
+        <intent android:action="com.yourname.musicplayer.RECENT" android:targetPackage="com.yourname.musicplayer" android:targetClass="com.yourname.musicplayer.MainActivity" />
+    </shortcut>
+    <shortcut android:shortcutId="favorites" android:enabled="true" android:shortcutShortLabel="@string/shortcut_favorites">
+        <intent android:action="com.yourname.musicplayer.FAVORITES" android:targetPackage="com.yourname.musicplayer" android:targetClass="com.yourname.musicplayer.MainActivity" />
+    </shortcut>
+</shortcuts>

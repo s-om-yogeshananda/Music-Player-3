@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shortcut_shuffle">Shuffle All</string>
+    <string name="shortcut_recent">Recently Played</string>
+    <string name="shortcut_favorites">Favorites</string>
+    <string name="notif_close">Close</string>
+    <string name="widget_idle">Nothing playing</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shortcut_shuffle">সব শাফল</string>
+    <string name="shortcut_recent">সম্প্রতি বাজানো</string>
+    <string name="shortcut_favorites">প্রিয়</string>
+    <string name="notif_close">বন্ধ করুন</string>
+    <string name="widget_idle">কিছু বাজছে না</string>
+</resources>
